@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development using Spring and Spring Boot<br><br>🌱 I’m currently learning Securing APIs using Spring Security<br><br>👯 I’m looking to collaborate on Mobile App Development using Flutter<br><br>🤝 I’m looking for help with Backend Security<br><br>💬 Ask me about Java, Flutter, Dart, Firebase, SQL and other tech-related stuff<br><br>📫 How to reach me Ping me on LinkedIn<br>
+🔭 I’m currently working on Backend Development using Spring and Spring Boot<br><br>🌱 I’m currently learning integrating LLM Models with Spring AI.<br><br>👯 I’m looking to collaborate on Mobile App Development using Flutter<br><br>🤝 I’m looking for help with RAG System.<br><br>💬 Ask me about Java, Flutter, Dart, Firebase, SQL and other tech-related stuff<br><br>📫 How to reach me Ping me on LinkedIn<br>
 
 
 ## 🌐 Socials:
